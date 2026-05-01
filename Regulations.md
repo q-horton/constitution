@@ -45,7 +45,7 @@ Within this document, the following definitions will be used:
 
 1.1.3 As presented by The Constitution, each body exists as a subcommittee of Association Members.
 
-1.1.4 The Management Committee shall have two meetings per calendar year, held one each during the months of June and December. The quorum of such meetings shall be a simple majority of members of the Management Committee, which must include at least two (2) members of each body listed in 1.2.
+1.1.4 The Management Committee shall have two meetings per calendar year, held one each during the months of June and December. The quorum of such meetings shall be a simple majority of members of the Management Committee, which must include at least two (2) members of each body listed in 1.1.2.
 
 ## 1.2 T3 Officers
 
@@ -135,7 +135,7 @@ Within this document, the following definitions will be used:
 
 1.5.11 Meetings of the Martian Council shall be held once per calendar month, with at least seven (7) days notice given by the Secretary. The quorum at such a meeting shall be at least one (1) T3 Officer plus a simple majority of the representative roles.
 
-1.5.12 An exclusion to 5.6, 5.7, and 5.8 shall be made for the representative for "First Year Students" to allow for legitimate first years to hold the role, for which position nominations shall open on the second Sunday before classes end for the mid-semester break in Semester One as outlined by the Academic Calendar of The University, and close on the day that classes resume following the mid-semester break.
+1.5.12 An exclusion to 1.5.6, 1.5.7, and 1.5.8 shall be made for the representative for "First Year Students" to allow for legitimate first years to hold the role, for which position nominations shall open on the second Sunday before classes end for the mid-semester break in Semester One as outlined by the Academic Calendar of The University, and close on the day that classes resume following the mid-semester break.
 
 1.5.13 Election of the representative for "First Year Students" shall take place on the first meeting of the Executive Team following the closure of nominations, with their term to commence from the first meeting of the Martian Council following their election. Their term shall end when their successor commences the following year in line with these Regulations.
 
@@ -236,10 +236,10 @@ Within this document, the following definitions will be used:
 
 ## 2.3 Election of the Returning Officer
 
-2.3.1 Due to 9.1, a Returning Officer must be elected by the assembly to oversee all elections of the Executive Team, who can be neither a nominee for the Executive Team, nor a seconder of any nominee.
+2.3.1 Due to 2.1.1, a Returning Officer must be elected by the assembly to oversee all elections of the Executive Team, who can be neither a nominee for the Executive Team, nor a seconder of any nominee.
 
 2.3.2 The Returning Officer does not need to be a Association Member.
 
 2.3.3 Provided that it is communicated at the time of election, the Returning Officer may be elected for a period of up to thirteen (13) calendar months to serve as the Returning Officer for all General Meetings that may occur within that time.
 
-2.3.4 Should a Returning Officer elected in advance as per 9.3 become ineligible to serve or not be present at a General Meeting, a new one shall be elected in their place.
+2.3.4 Should a Returning Officer elected in advance as per 2.1.3 become ineligible to serve or not be present at a General Meeting, a new one shall be elected in their place.
